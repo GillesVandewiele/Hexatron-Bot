@@ -6,4 +6,4 @@
 
 Clone the [simulator repository](https://github.com/pvmolle/hexatron) and run `python simulator.py agent.py agent.py` to let the agent play against itself.
 
-# Documentation can be found here
+### Documentation can be found [here](https://gillesvandewiele.github.io/Hexatron-Bot/)
