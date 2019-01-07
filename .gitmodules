@@ -1,0 +1,3 @@
+[submodule "hexatron"]
+	path = hexatron
+	url = https://github.com/pvmolle/hexatron
