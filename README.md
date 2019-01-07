@@ -6,6 +6,6 @@ A simple, but strong, bot that is based on a heuristic in which we calculate the
 
 # Running the code
 
-Clone the [simulator repository](https://github.com/pvmolle/hexatron) and run `python simulator.py agent.py agent.py` to let the agent play against itself.
+Clone the [simulator repository](https://github.com/pvmolle/hexatron) and run `python simulator.py agent.py agent.py` to let the agent play against itself. Open the generated `replay.html` file to the game.
 
 ### Documentation can be found [here](https://gillesvandewiele.github.io/Hexatron-Bot/)
